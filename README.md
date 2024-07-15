@@ -1,4 +1,2 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maxyushkevich&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maxyushkevich&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maxyushkevich&theme=github_dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=maxyushkevich&theme=dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=600)](https://git.io/streak-stats)
 
